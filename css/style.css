@@ -1,0 +1,18 @@
+/* TODO: Put your CSS code in here */
+
+body{
+  background-color: #81CBC8;
+}
+
+h2{
+  color: white;
+}
+
+.map-pos{
+  display: flex;
+  justify-content: space-around;
+}
+
+#map{
+  width: 500px;
+}
